@@ -1,0 +1,6 @@
+# Dependencies and generated files
+node_modules/
+.next*/
+.env*
+!.env.example
+!.env.test.example
